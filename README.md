@@ -5,6 +5,7 @@ Tasks:
 
 1. Install Prometheus Server
 - Configuration basic authentication username/password
+- Screenhot of login prompt while trying to access prometheus
 - Screenshot of prometheus dashboard
 
 2. Install node exporter on another machine than the server
